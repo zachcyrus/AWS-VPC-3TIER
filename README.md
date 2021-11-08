@@ -45,3 +45,7 @@ This 3 tier architecture will consist of an nginx reverse proxy which will retri
 #### Set up route tables:
 
 1. 
+
+## Topology
+
+![Topology](./screenshots/3_tier_topology.png)
